@@ -9,4 +9,13 @@ Of particular interest is Oliver's CNN/AI project in which a convolutional neura
 
 ### Abstract 
 This CNN project sees 3 artificial neural network models built from scratch using keras with tensorflow to build sequential models of different architechtural designs.
-The different layers, shapes, and structure of each network produce varying results in their abilities to identify the images of food from the training dataset.
+The different layers, shapes, and structure of each network produce varying results in their abilities to identify the images of food from the training dataset.  
+
+In file, "CNN_for_food_classification.ipynb", we see 2 sequential neural network models with different combinations of Dense, Max Pooling, Dropout and Convolutional layers.
+The accuracy and evaluation of these models is discussed in the notebook.  
+In file, "Model #3 building an inception module.ipynb", we see a different architectural approach to building an artificial neural network model, with  
+parallel layering as seen in below diagram:   
+![image](https://github.com/oliver-bigdata/CNN-for-image-classification-of-food/assets/72868416/bad14ae7-38d9-40f8-ad57-bcdaadb1cf05)  
+Again, the accuracy and evaluation of this model is discussed in the notebook.
+
+
